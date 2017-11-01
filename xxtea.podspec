@@ -14,6 +14,6 @@ Pod::Spec.new do |s|
   # s.platform     = :HTML
   # s.requires_arc = true
 
-  s.source_files = 'js/*'
+  s.source_files = 'xxtea/*'
 
 end
