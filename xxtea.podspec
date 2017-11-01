@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
                        DESC
   s.homepage         = "https://github.com/huangyanan1992/xxtee"
   # s.screenshots      = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
-  s.license          = 'Yuanfenba'
+  s.license          = 'MIT'
   s.author           = { "黄亚南" => "1178848591@qq.com" }
   s.source           = { :git => "https://github.com/huangyanan1992/xxtee.git", :tag => s.version.to_s }
 
