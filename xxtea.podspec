@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "xxtea"
-  s.version          = "1.0.0"
+  s.version          = "1.0.1"
   s.summary          = "xxtea on html."
   s.description      = <<-DESC
                        It is a xxtea encryption tool used on html, which implement by html.
